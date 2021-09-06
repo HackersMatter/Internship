@@ -1,0 +1,10 @@
+E:\Programming\C#\IMDB\ImdbConsole.Domain\bin\Debug\netcoreapp3.1\ImdbConsole.Domain.deps.json
+E:\Programming\C#\IMDB\ImdbConsole.Domain\bin\Debug\netcoreapp3.1\ImdbConsole.Domain.dll
+E:\Programming\C#\IMDB\ImdbConsole.Domain\bin\Debug\netcoreapp3.1\ImdbConsole.Domain.pdb
+E:\Programming\C#\IMDB\ImdbConsole.Domain\obj\Debug\netcoreapp3.1\ImdbConsole.Domain.csproj.AssemblyReference.cache
+E:\Programming\C#\IMDB\ImdbConsole.Domain\obj\Debug\netcoreapp3.1\ImdbConsole.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C#\IMDB\ImdbConsole.Domain\obj\Debug\netcoreapp3.1\ImdbConsole.Domain.AssemblyInfoInputs.cache
+E:\Programming\C#\IMDB\ImdbConsole.Domain\obj\Debug\netcoreapp3.1\ImdbConsole.Domain.AssemblyInfo.cs
+E:\Programming\C#\IMDB\ImdbConsole.Domain\obj\Debug\netcoreapp3.1\ImdbConsole.Domain.csproj.CoreCompileInputs.cache
+E:\Programming\C#\IMDB\ImdbConsole.Domain\obj\Debug\netcoreapp3.1\ImdbConsole.Domain.dll
+E:\Programming\C#\IMDB\ImdbConsole.Domain\obj\Debug\netcoreapp3.1\ImdbConsole.Domain.pdb

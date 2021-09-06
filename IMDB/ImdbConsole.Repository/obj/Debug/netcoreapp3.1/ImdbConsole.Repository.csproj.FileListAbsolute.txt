@@ -1,0 +1,13 @@
+E:\Programming\C#\IMDB\ImdbConsole.Repository\bin\Debug\netcoreapp3.1\ImdbConsole.Repository.deps.json
+E:\Programming\C#\IMDB\ImdbConsole.Repository\bin\Debug\netcoreapp3.1\ImdbConsole.Repository.dll
+E:\Programming\C#\IMDB\ImdbConsole.Repository\bin\Debug\netcoreapp3.1\ImdbConsole.Repository.pdb
+E:\Programming\C#\IMDB\ImdbConsole.Repository\bin\Debug\netcoreapp3.1\ImdbConsole.Domain.dll
+E:\Programming\C#\IMDB\ImdbConsole.Repository\bin\Debug\netcoreapp3.1\ImdbConsole.Domain.pdb
+E:\Programming\C#\IMDB\ImdbConsole.Repository\obj\Debug\netcoreapp3.1\ImdbConsole.Repository.csproj.AssemblyReference.cache
+E:\Programming\C#\IMDB\ImdbConsole.Repository\obj\Debug\netcoreapp3.1\ImdbConsole.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C#\IMDB\ImdbConsole.Repository\obj\Debug\netcoreapp3.1\ImdbConsole.Repository.AssemblyInfoInputs.cache
+E:\Programming\C#\IMDB\ImdbConsole.Repository\obj\Debug\netcoreapp3.1\ImdbConsole.Repository.AssemblyInfo.cs
+E:\Programming\C#\IMDB\ImdbConsole.Repository\obj\Debug\netcoreapp3.1\ImdbConsole.Repository.csproj.CoreCompileInputs.cache
+E:\Programming\C#\IMDB\ImdbConsole.Repository\obj\Debug\netcoreapp3.1\ImdbConsole.Repository.csproj.CopyComplete
+E:\Programming\C#\IMDB\ImdbConsole.Repository\obj\Debug\netcoreapp3.1\ImdbConsole.Repository.dll
+E:\Programming\C#\IMDB\ImdbConsole.Repository\obj\Debug\netcoreapp3.1\ImdbConsole.Repository.pdb
